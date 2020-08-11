@@ -1,0 +1,4 @@
+MONGO_URI=mongodb+srv://User:!testtest1@cluster0.8uzht.mongodb.net/<dbname>?retryWrites=true&w=majority
+PORT=8000
+JWT_SECRET=sdlaksjdlakwen
+
